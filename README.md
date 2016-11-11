@@ -10,3 +10,5 @@ For å edite filer eller legge til flere filer.
 - Valgfri. Skriv en kommentar
 7. Trykk "create pull request"
 8. Vent til jeg godskjenner endringene
+
+Hvis du vil se siden http://rawgit.com/Sethan/final_project/master/index.html
