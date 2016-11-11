@@ -115,7 +115,7 @@ a:hover, a:active {color:#224466; font-weight: 500;}
 	height:80vh;
 	transition: transform 0.5s ease-in;
 	padding-left: 22%;
-	background-color: #336699;
+	background-color: rgba(51, 102, 153, 0.84);
 }
 .pic{padding-left: 20%; background-color: #336699;}
 .pic div img {width: 40%;}
