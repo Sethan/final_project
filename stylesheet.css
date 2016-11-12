@@ -94,7 +94,6 @@ a:hover, a:active {color:#224466; font-weight: 500;}
   50%      {bottom:21.25%;}
 }*/
 // Slider 
-.SliderSection { overflow-x: hidden; }
 .boxes {
   position: relative;
   width: 100vw;
