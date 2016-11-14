@@ -14,19 +14,3 @@ var inter=setInterval(changeimage, 3000);
 bilder.onclick=function(){
   clearInterval(inter);
 }
-var myname=document.getElementById("Navn");
-
-var navnArray=["Siham","Lars","Idriss","Ilham"];
-var index=0;
-function changenavn(){
- Navn.setAttribute("class" , navnArray[index]);
-  index++;
-  if(index>= navnArray.length){
-    index=0;
-
-  }
-}
-var inter=setInterval(changenavn, 3000);
-Navn.onclick=function(){
-  clearInterval(inter);
-}
