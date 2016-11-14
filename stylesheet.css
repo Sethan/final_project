@@ -35,7 +35,7 @@ nav ul li {display: inline; list-style-type: none; padding-right: 5%; font-size:
 .Intro,#Specs {
 	height: 70vh;
 	font-family: 'Open Sans';
-	font-weight: 300;
+	font-weight: 200;
 	font-size: 2vw;
 	line-height: 2;
 }
