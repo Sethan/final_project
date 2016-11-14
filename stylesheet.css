@@ -172,7 +172,35 @@ a:hover, a:active {color:#224466; font-weight: 500;}
   border: 1px solid;
 }
 .rnav { display: none; } // End of Slider
+//About us
+article { position: absolute; 
+	background-color: blue;
+	width: 100%;
+	text-align: center;
+	height: 35vh;
+	color: white;
+}
+.Main { background-color:#336688;
+	text-align: center; color: white;
+	padding: 5vh 0 20vh 0;
+ }
+.Main h1, .Story h1 { font-size: 3vw;} .Main p {font-size: 1.5vw; margin-right: 3%;
+	line-height: 0;
+} .Main table tr th img {border-radius: 50%; height: 30%; }
+.Main table {width: 100%;}
 
-#BilderAvOss { position: absolute; bottom: -10%;  }
-#BilderAvOss img { width: 50%; height: 100%;
-	border: 1px solid red; left: 30%; position: absolute; top: 0; }
+.Story {
+	background-color: white;
+	color: #336699;
+	padding: 0 0 5vh 0;
+	text-align: center;
+}
+.Story table{ width: 100%;}
+.Story table th img {width: 33%;}
+.second{
+	background-color: #336699;
+	padding: 5vh 0 10vh 0;
+}
+.second img {margin-right: 2%;}
+
+
