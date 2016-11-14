@@ -1,11 +1,11 @@
-var myimage=document.getElementById("bilder");
-var myimage=document.getElementById("navn");
+var myimage=document.getElementById("BilderAvOss");
+
 var imageArray=["img/siham.jpg","img/lars.jpg","img/idriss.jpg","img/Portrett.jpg"];
 var navnArray=["Siham","Lars","Idriss","img/demo_4.png"];
 var index=0;
-var ind=0;
+
 function changeimage(){
-  bilder.setAttribute("src" , imageArray[index]);
+  BilderAvOss.setAttribute("src" , imageArray[index]);
   index++;
   if(index>= imageArray.length){
     index=0;
@@ -13,18 +13,6 @@ function changeimage(){
   }
 }
 var inter=setInterval(changeimage, 3000);
-bilder.onclick=function(){
-  clearInterval(inter);
-}
-function changenavn(){
-  navn.setAttribute(navnArray[ind]);
-  ind++;
-   if(ind>= navnArray.length){
-    ind=0;
-
-  }
-}
-var inter=setInterval(changenavn, 3000);
-navn.onclick=function(){
+BilderAvOss.onclick=function(){
   clearInterval(inter);
 }
