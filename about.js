@@ -1,9 +1,9 @@
-var myimage=document.getElementById("bilde");
+var myimage=document.getElementById("bilder");
 
 var imageArray=["img/siham.jpg","img/lars.jpg","img/idriss.jpg","img/Portrett.jpg"];
 var index=0;
 function changeimage(){
-  bilde.setAttribute("src" , imageArray[index]);
+  bilder.setAttribute("src" , imageArray[index]);
   index++;
   if(index>= imageArray.length){
     index=0;
@@ -11,6 +11,6 @@ function changeimage(){
   }
 }
 var inter=setInterval(changeimage, 3000);
-bilde.onclick=function(){
+bilder.onclick=function(){
   clearInterval(inter);
 }
