@@ -1,9 +1,7 @@
 var myimage=document.getElementById("bilde");
 
 var imageArray=["img/siham.jpg","img/lars.jpg","img/idriss.jpg","img/Portrett.jpg"];
-var navnArray=["Siham","Lars","Idriss","img/demo_4.png"];
 var index=0;
-
 function changeimage(){
   bilde.setAttribute("src" , imageArray[index]);
   index++;
