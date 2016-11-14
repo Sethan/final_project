@@ -17,7 +17,7 @@ bilder.onclick=function(){
   clearInterval(inter);
 }
 function changenavn(){
-  navn.setAttribute("src" , navnArray[ind]);
+  navn.setAttribute(navnArray[ind]);
   ind++;
    if(ind>= navnArray.length){
     ind=0;
