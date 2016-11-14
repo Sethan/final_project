@@ -156,9 +156,6 @@ a:hover, a:active {color:#224466; font-weight: 500;}
 }
 .rnav { display: none; } // End of Slider
 
-#BilderAvOss { 
-	position: relative;
-	width: 100%;
-	padding: 0 0 0 50%;
-}
-#BilderAvOss img { width: 50%; height: 50%; }
+#BilderAvOss { position: absolute; bottom: -10%;  }
+#BilderAvOss img { width: 50%; height: 100%;
+	border: 1px solid red; left: 30%; position: absolute; top: 0; }
