@@ -154,3 +154,8 @@ a:hover, a:active {color:#224466; font-weight: 500;}
   border: 1px solid;
 }
 .rnav { display: none; } // End of Slider
+#about img{
+padding-left: 25%;
+	width: 500px;
+	height: 500px;
+}
