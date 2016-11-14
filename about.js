@@ -1,6 +1,6 @@
 var myimage=document.getElementById("bilder");
 var myimage=document.getElementById("navn");
-var imageArray=["img/siham.jpg","img/lars.jpg","img/idriss.jpg","img/demo_4.png"];
+var imageArray=["img/siham.jpg","img/lars.jpg","img/idriss.jpg","img/Portrett.jpg"];
 var navnArray=["Siham","Lars","Idriss","img/demo_4.png"];
 var index=0;
 var ind=0;
