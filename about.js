@@ -14,12 +14,12 @@ var inter=setInterval(changeimage, 3000);
 bilder.onclick=function(){
   clearInterval(inter);
 }
-var myimage=document.getElementById("Navn");
+var myname=document.getElementById("Navn");
 
 var navnArray=["Siham","Lars","Idriss","Ilham"];
 var index=0;
 function changenavn(){
-  bilder.setAttribute("src" , navnArray[index]);
+ Navn.setAttribute("src" , navnArray[index]);
   index++;
   if(index>= navnArray.length){
     index=0;
