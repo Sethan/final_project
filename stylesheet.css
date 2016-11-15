@@ -189,7 +189,7 @@ article { position: absolute;
  }
 .Main h1, .Story h1 { font-size: 3vw;} .Main p {font-size: 1.5vw; margin-right: 3%;
 	line-height: 0;
-} .Main table tr th img {border-radius: 50%; height: 30%; }
+} .Main table tr th img {border-radius: 50%; height: 30%; width:90%; }
 .Main table {width: 100%;}
 
 .Story {
