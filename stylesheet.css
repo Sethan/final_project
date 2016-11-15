@@ -135,7 +135,7 @@ a:hover, a:active {color:#224466; font-weight: 500;}
 	background-color: #336699;
 	color:white;
 }
-.pic{padding-left: 20%; background-color: #336699;}
+.pic{padding-left: 20%; background-color: #336699; color:white;}
 .pic div img {width: 40%;}
 
 .infoh1 {position: relative; left: 8%; font-size: 4vw;  }
