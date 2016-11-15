@@ -124,6 +124,7 @@ a:hover, a:active {color:#224466; font-weight: 500;}
   width: 99.5vw;
   height: 80vh;
   display: inline-flex;
+  color:white;
 }
 
 .slides {
