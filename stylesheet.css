@@ -117,7 +117,7 @@ a:hover, a:active {color:#224466; font-weight: 500;}
   width: 100vw;
   height: 80vh;
   margin: 0 auto;
-  color:white;
+
 }
 
 .box {
@@ -132,6 +132,7 @@ a:hover, a:active {color:#224466; font-weight: 500;}
 	transition: transform 0.5s ease-in;
 	padding-left: 22%;
 	background-color: #336699;
+	color:white;
 }
 .pic{padding-left: 20%; background-color: #336699;}
 .pic div img {width: 40%;}
