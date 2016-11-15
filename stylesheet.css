@@ -117,6 +117,7 @@ a:hover, a:active {color:#224466; font-weight: 500;}
   width: 100vw;
   height: 80vh;
   margin: 0 auto;
+  color:white;
 }
 
 .box {
