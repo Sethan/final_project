@@ -14,6 +14,22 @@ body {
 	padding:0;
 	top: 7%;
 }
+#Forsidebilde h1{
+	
+	color:white;
+	text-shadow:5px 5px 10px black;
+	font-family: "Open Sans";
+	opacity:0.85;
+	font-size:60px;
+	font-weight:100;
+}
+#Forsidebilde h6{
+	font-family "Open Sans";
+	color:black;
+	font-size:20px;
+	text-shadow:2px 2px 5px grey;
+	opacity:0.75;
+}
 #Forsidebilde img {
 	width: 100%; height: 93%;
 }
