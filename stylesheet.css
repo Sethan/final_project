@@ -121,7 +121,7 @@ a:hover, a:active {color:#224466; font-weight: 500;}
   transform: translateX(-50%);
   bottom: 13%;
 }
-#arrowStop {height: 80px;}/*
+/*
 @-webkit-keyframes bounce {
   0%, 100% { bottom:20%; }
   10%, 90% { bottom:20.25%; }
@@ -186,7 +186,6 @@ a:hover, a:active {color:#224466; font-weight: 500;}
 .s-index {
   width: 4vw;
   height: 2vh;
-  border-radius: 50%;
   background-color: white;
   display: inline-block;
   margin-right: 6px;
