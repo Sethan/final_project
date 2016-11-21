@@ -8,6 +8,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" href="img/Logo.png" type="image/png">
 	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans" />
+	<link rel="stylesheet" type="text/css" media="only screen and (min-width:300px) and (max-width:600px)" href="Stylesheet300600.css">
 </head>
 <body>
 <nav> 
@@ -26,14 +27,14 @@
 	</aside>
 <marquee id="bounce" direction="down" behavior="alternate" scrollamount="1"><a href="#arrowStop"><img src="img/downArrow.png" alt="A pointing arrow to scroll down"></a></marquee>
 </div>
-<article id="arrowStop"></article>
+<p id="arrowStop">&nbsp;</p>
 <section class="Intro">
 	<p>Dementia is a umbrella term for a set of symptoms that is linked with brain disorders and memory loss. When people talk about dementia, they often mean dementia caused by Alzheimer’s disease.
 	People suffering from dementia caused by Alzheimer’s has a reduced short-term memory. This includes forgetting appointments, keeping track of important items such as wallets and mobile devices.
 	Dementia is unfortunately an incurable disease, and the patients conditions gradually worsen over time. In the videos below we meet Wendy, Keith, and Christopher. They tell us what it is like living with dementia, and how it effects their everyday life. 
 </p>
 </section>
-<section style="overflow: hidden;">
+<section style="overflow: hidden;" id="Slideshow">
   <input type="radio" class="rnav black" id="slide_1" name="coins" checked>
   <input type="radio" class="rnav red" id="slide_2" name="coins">
   <input type="radio" class="rnav yellow" id="slide_3" name="coins">
@@ -64,7 +65,7 @@ http://www.alz.org">alz.org</a> .</p>
 </section>
 <footer>
 <!--Left Side -->
-<div style="width: 40%;" >
+<div id="footerDiv1" >
 <ul>
 	<li><img src="img/Logo.png" alt="Our Logo"></li>
 	<li><a href="#">Home</a> <a href="#">Product</a> <a href="#">About</a></li>
@@ -76,7 +77,7 @@ http://www.alz.org">alz.org</a> .</p>
 </ul>
 </div>
 <!--Center -->
-<div style="width: 35%;">
+<div id="footerDiv2">
 	<table>
 		<tr><th><img src="img/MapPin.png" alt="Map-Pin symbol"></th><th><p><span>Pilestredet 35</span> Oslo, Norway</p></th></tr>
 		<tr><th><img src="img/phone.png" alt="Phone symbol"></th><th><p>+47 23 50 00</p></th></tr>
@@ -84,7 +85,7 @@ http://www.alz.org">alz.org</a> .</p>
 	</table>
 </div>
 <!--Right Side -->
-<div style="width: 20%; position: absolute;">
+<div id="footerDiv3">
 	<p>Contact Us</p>
 	<form action="#" method="post">
 					<input type="text" name="email" placeholder="Email" />
