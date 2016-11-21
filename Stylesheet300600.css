@@ -29,4 +29,5 @@ nav {
 	margin: 0;
 }
 nav ul {display: inline; position:absolute; left:18%; bottom:-164%;}
+nav ul li {font-size:3vw;}
 #bounce {display:none;}
