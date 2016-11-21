@@ -178,13 +178,13 @@ a:hover, a:active {color:#224466; font-weight: 500;}
 
 .labels {
   position: absolute;
-  bottom: 40px;
+  bottom: 5%;
   left: 52.5%;
   transform: translateX(-50%);
 }
 .prolabel {left: 80%;}
 .s-index {
-  width: 4vw;
+  width: 5vw;
   height: 2vh;
   background-color: white;
   display: inline-block;
