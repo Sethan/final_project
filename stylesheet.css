@@ -182,11 +182,11 @@ a:hover, a:active {color:#224466; font-weight: 500;}
   left: 52.5%;
   transform: translateX(-50%);
 }
-.labels img {position:absolute; width:40%;}
+.labels img {position:absolute; width:31%;}
 .prolabel {left: 80%;}
 .s-index {
-  width: 5vw;
-  height: 2vh;
+  width: 7vw;
+  height: 5vh;
   background-color: white;
   display: inline-block;
   margin-right: 6px;
