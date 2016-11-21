@@ -1,4 +1,4 @@
-.Intro, #Specs {
+.Intro, #Specs, .solution, #Specs table {
 	font-size: 4vw;
 }
 
@@ -14,7 +14,7 @@
 .boxes {
 	height: 100%;
 }
-.slides {
+.slides,.pic {
 	height: 100%;
 }
 footer {height: 22%;}
