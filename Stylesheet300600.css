@@ -24,11 +24,9 @@ textarea {height: 5vh;}
 footer div {width: 30%;}
 
 nav {
-	height: 2%;
-	padding: 0;
-	margin: 0;
+	height: 3%;
 }
-nav ul {display: inline; position:absolute; left:15%; bottom:-130%;}
+nav ul {display: inline; position:absolute; left:15%; bottom:-110%;}
 nav ul li {font-size:3vw;}
 #bounce {display:none;}
 .labels img {
