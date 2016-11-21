@@ -68,17 +68,20 @@ h1 {font-family: Verdana; font-weight: 100;}
 #Specs {height: 80vh;}
 #Specs table
 {
-	position:absolute; 
-	width: 90%; 
-	text-align: center;
+	margin:0 auto;
+	padding-left:12vw;
+	width: 60%; 
 	font-style: italic; 
-	font-size: 1.8vw;
+	font-size: 2vw;
 	font-weight:100; 
 	color:rgba(0, 0, 0, 0.72);
-	left: 5%;
 	font-family:Raleway, "Open Sans", sans-serif;
 }
-#Specs table tr td img {width: 2vw; height: 4vh; margin-top: 30%;}
+#Specs table tr td{
+	padding-bottom:0.5vw;
+	padding-top:0.5vw;
+}
+#Specs table tr td img {width: 2vw; height: 4vh; margin-bottom:-0.45vw; margin-right:1vw;}
 .solution { margin: -2% 0 8% 0; }
 section {
 	position: relative;
