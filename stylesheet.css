@@ -48,7 +48,7 @@ nav ul li {display: inline; list-style-type: none; padding-right: 5%; font-size:
 	text-align: center; font-size: 1.7vw;
 }
 .Intro,#Specs {
-	height: 70vh;
+	height: 100%;
 	font-family: 'Open Sans';
 	font-weight: 200;
 	font-size: 2vw;
