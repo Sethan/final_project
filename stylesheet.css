@@ -110,7 +110,6 @@ footer ul li {
 }
 footer img {width: 10%;} footer a {width: 10%;}
 footer table img {width: 65%;} 
-#footerDiv1 {width: 35%;} #footerDiv2{width: 35%;} #footerDiv3{width: 20%;}
 
 a:link, a:visited {color:#336699; text-decoration:none; font-weight: 350;}
 a:hover, a:active {color:#224466; font-weight: 500;}
