@@ -1,0 +1,32 @@
+.Intro, #Specs {
+	font-size: 4vw;
+}
+
+#arrowStop{
+	top: -2%;
+	position: absolute;
+}
+
+#Slideshow {
+	height: 60%;
+}
+
+.boxes {
+	height: 100%;
+}
+.slides {
+	height: 100%;
+}
+footer {height: 22%;}
+footer * {font-size: 2vw;}
+input[type=text], textarea {height: 1vh;}
+textarea {height: 5vh;}
+footer div {width: 30%;}
+
+nav {
+	height: 2%;
+	padding: 0;
+	margin: 0;
+}
+nav ul {display: inline; }
+#bounce {visibility: hidden;}
