@@ -17,7 +17,7 @@
 .slides,.pic {
 	height: 100%;
 }
-footer {height: 14%;}
+footer {height: 25%;}
 footer * {font-size: 2vw;}
 input[type=text], textarea {height: 1vh;}
 textarea {height: 5vh;}
