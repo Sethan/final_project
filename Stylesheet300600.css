@@ -28,5 +28,5 @@ nav {
 	padding: 0;
 	margin: 0;
 }
-nav ul {display: inline; position:absolute; }
-#bounce {visibility: hidden;}
+nav ul {display: inline; position:absolute; left:18%; bottom:-164%;}
+#bounce {display:none;}
