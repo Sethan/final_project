@@ -21,13 +21,13 @@ body {
 	text-shadow:5px 5px 10px black;
 	font-family: "Open Sans";
 	opacity:0.85;
-	font-size:60px;
+	font-size:3vw;
 	font-weight:100;
 }
 #Forsidebilde h6{
 	font-family "Open Sans";
 	color:black;
-	font-size:20px;
+	font-size:1.5vw;
 	text-shadow:2px 2px 5px grey;
 	opacity:0.75;
 }
