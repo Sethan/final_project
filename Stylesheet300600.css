@@ -32,12 +32,10 @@ nav ul li {font-size:3vw;}
 .labels img {
 	height:30%;
 	width:90%; }
-.labels { left:90%; }
+.labels { left:74%; display:inline-flex; margin-bottom:5%;  }
 #SlideshowApp {
 	height:40vh;
 }
-.pic div img {
-	width:40%;
-	margin: 18% 0% 39% -13%;
-}
+.infoh1 {left:15%; font-size:5vw;}
+.infop{top:15%; right:21%;}
 
