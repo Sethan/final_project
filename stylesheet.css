@@ -54,12 +54,14 @@ nav ul li {display: inline; list-style-type: none; padding-right: 5%; font-size:
 	font-size: 2vw;
 	line-height: 2;
 }
-.solution p {
-	padding:20px;
-}
-.Intro p
+
+
+.Intro p, .solution p
 {
 	padding-right:20px;
+	padding-right: 60px;
+    	padding-left: 60px;
+    	text-align: justify;
 }
 .Intro h1,#Italic,#Specs h1{text-align: center;}
 h1 {font-family: Verdana; font-weight: 100;}
