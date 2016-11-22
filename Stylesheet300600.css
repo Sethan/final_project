@@ -14,7 +14,7 @@
 }
 
 .boxes {
-	height: 100%;
+	height: 77%;
 }
 .slides,.pic {
 	height: 100%;
@@ -35,7 +35,7 @@ nav ul li {font-size:3vw;}
 	height:30%;
 	width:90%; }
 .labels { left:90%; }
-.prolabel {left:81%; display:inline-flex; margin-bottom:5%;}
+.prolabel {left:48%; display:inline-flex; margin-bottom:2%;}
 #SlideshowApp {
 	height:40vh;
 }
