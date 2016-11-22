@@ -35,7 +35,7 @@ nav ul li {font-size:3vw;}
 	height:30%;
 	width:90%; }
 .labels { left:90%; }
-.prolabel {left:48%; display:inline-flex; margin-bottom:2%;}
+.prolabel {left:48%; display:inline-flex; margin-bottom:4%;}
 #SlideshowApp {
 	height:40vh;
 }
