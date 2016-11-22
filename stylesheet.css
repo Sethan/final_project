@@ -159,7 +159,7 @@ a:hover, a:active {color:#224466; font-weight: 500;}
 .pic{padding-left: 20%; background-color: #336699; color:white;}
 .pic div img {width: 40%;}
 
-.infoh1 {position: relative; left: 8%; font-size: 4vw; color:white; margin-left:5vw;  }
+.infoh1 {position: relative; left: 8%; font-size: 4vw; color:white; margin-left:5vw; color:gold; }
 .infop { position: relative; right: 22%; text-align: center; top: 20%; font-size: 3.5vw;
 	font-weight: 300; color:white; margin-left:5vw;
   }
