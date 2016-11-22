@@ -143,9 +143,10 @@ a:hover, a:active {color:#224466; font-weight: 500;}
 
 .box {
   width: 99.5vw;
-  height: 100%;
+  height: 79%;
   display: inline-flex;
   color:white;
+margin-top:1%;
 }
 
 .slides {
@@ -185,7 +186,7 @@ a:hover, a:active {color:#224466; font-weight: 500;}
   transform: translateX(-50%);
 }
 .labels img {position:absolute; width:31%;}
-.prolabel {left: 80%;}
+.prolabel {left: 48%;display:inline-flex;bottom:6%}
 .s-index {
   width: 7vw;
   height: 5vh;
