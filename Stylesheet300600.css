@@ -36,7 +36,7 @@ nav ul li {font-size:3vw;}
 #SlideshowApp {
 	height:40vh;
 }
-div pic img {
+.pic div img {
 	width:40%;
 	margin: 18% 0% 39% -13%;
 }
