@@ -34,7 +34,10 @@ nav ul li {font-size:3vw;}
 	width:90%; }
 .labels { left:90%; }
 #SlideshowApp {
-	height:52vh;
-	
+	height:40vh;
+}
+div pic img {
+	width:40%;
+	margin: 18% 0% 39% -13%;
 }
 
