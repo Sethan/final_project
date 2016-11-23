@@ -44,3 +44,24 @@ nav ul li {font-size:3vw;}
 .infop{top:15%; right:23%; font-size:3.8vw;}
 
 .second h1{font-size:6vw;} .second img {width:31%;} .Main h1 {font-size:5vw;} .Main p{font-size:3.5vw;}
+
+
+.StudentSlider {overflow: hidden;}
+.StudentSlider figure img {width: 84%; border-radius: 50px;
+ display: inline-block;}
+.StudentSlider figure div {width: 13%; display: inline-block;}
+.StudentSlider figure {
+	position: relative;
+	width: 180%;
+	margin: 0; padding: 0; left: 0;
+	animation: 22s SlideAnimation infinite;
+}
+@keyframes SlideAnimation {
+	0%, 10%,96% { left: 0% }
+	12%, 22%, 84%, 94% { left: -27% }
+	24%, 34%, 72%, 82% { left: -53% }
+	36%,46%,60%,70% { left: -79% }
+}
+
+.Story{ width:100%;}
+.Story table tr{width:100%;}
