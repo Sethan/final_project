@@ -239,7 +239,7 @@ textarea {  resize: none; height:15vh; } button {left:30%; position:absolute;}
 /*Student Slider*/
 .StudentSlider {overflow: hidden;}
 .StudentSlider figure img {width: 65%; border-radius: 0px 150px;
- display: inline-block; animation: 4s StudentImage infinite;}
+ display: inline-block;}
 .StudentSlider figure div {width: 14%; display: inline-block;}
 .StudentSlider figure {
 	position: relative;
