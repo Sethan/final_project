@@ -54,9 +54,6 @@ nav ul li {display: inline; list-style-type: none; padding-right: 5%; font-size:
 	font-size: 2vw;
 	line-height: 2;
 }
-.Intro {
-	background-color: #336693; color: white; height: 100vh;
-}
 .Intro p, .solution p
 {
 	padding-right:20px;
@@ -255,6 +252,9 @@ textarea {  resize: none; height:15vh; } button {left:30%; position:absolute;}
 	36%,46%,60%,70% { left: -79% }
 }
 /* Timeline */
+.Timeline-Intro {
+	background-color: #336693; color: white; height: 100vh;
+}
 .Timeline-Intro::before {
 	content: " ";
 	position: absolute;
