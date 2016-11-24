@@ -54,8 +54,9 @@ nav ul li {display: inline; list-style-type: none; padding-right: 5%; font-size:
 	font-size: 2vw;
 	line-height: 2;
 }
-
-
+.Intro {
+	background-color: #336693; color: white; height: 100vh;
+}
 .Intro p, .solution p
 {
 	padding-right:20px;
