@@ -190,7 +190,7 @@ article { position: absolute;
 }
 .Main { background-color:#336688;
 	text-align: center; color: white;
-	padding: 5vh 0 20vh 0;
+	padding: 5vh 0 20vh 0; position:relative;
  }
 .Main h1, .Story h1 { font-size: 3vw;} .Main p {font-size: 1.5vw; margin-right: 3%;
 	line-height: 0;
