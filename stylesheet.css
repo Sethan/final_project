@@ -308,7 +308,7 @@ textarea {  resize: none; height:15vh; } button {left:30%; position:absolute;}
 	top: 75px;
  }
  .Timeline-Content h2 { font-size: 2.5rem; text-align: center; margin: -10% 0 2% 0;  }
- .Timeline-Content p { font-size: 1.7rem; width:100%; text-align:center; }
+ .Timeline-Content p { font-size: 1.7rem; width:100%; text-align:center; padding: 0 0 0 0; }
  .Timeline-Block:nth-child(2) {margin: 5em 27.5em;}
  .Timeline-Block:nth-child(3) {margin: 0em 2.5em;}
 
