@@ -28,7 +28,7 @@ footer div {width: 30%;}
 nav {
 	height: 3%;
 }
-nav ul {display: inline; position:absolute; left:15%; bottom:-110%;}
+nav ul {display: inline; position:absolute; left:15%; bottom:-72%;}
 nav ul li {font-size:3vw;}
 #bounce {display:none;}
 .labels img {
