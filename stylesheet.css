@@ -255,7 +255,7 @@ textarea {  resize: none; height:15vh; } button {left:30%; position:absolute;}
 	36%,46%,60%,70% { left: -79% }
 }
 /* Timeline */
-.Intro::before {
+.Timeline-Intro::before {
 	content: " ";
 	position: absolute;
 	top: 0;
