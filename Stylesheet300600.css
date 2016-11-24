@@ -44,7 +44,7 @@ nav ul li {font-size:3vw;}
 .infop{top:15%; right:23%; font-size:3.8vw;}
 
 .second h1{font-size:6vw;} .second img {width:31%;} .Main h1 {font-size:5vw;} .Main p{font-size:3.5vw;}
-
+.second {height:33vh;}
 .Main{height:25vh;}
 .StudentSlider {position:absolute;overflow: hidden;}
 .StudentSlider figure img {width: 84%; border-radius: 50px;
