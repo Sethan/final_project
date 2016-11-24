@@ -253,4 +253,69 @@ textarea {  resize: none; height:15vh; } button {left:30%; position:absolute;}
 	24%, 34%, 72%, 82% { left: -53% }
 	36%,46%,60%,70% { left: -79% }
 }
+/* Timeline */
+.Intro::before {
+	content: " ";
+	position: absolute;
+	top: 0;
+	height: 100%;
+	width: 4px;
+	background: white;
+	left: 50%;
+	margin-left: -2px;
+}
+.Timeline-Content::before {
+	content: " ";
+	position: absolute;
+	top: 24px;
+	right: -4%;
+	height: 0;
+	width: 0;
+	border: 7px solid transparent;
+	border-left-color: white;
+}
+.Timeline-Content span {
+	float: left; padding: 0.8em 0; opacity: 0.7;
+	position: absolute; width: 35%; left: 150%; top: 6px;
+	font-size: 2rem;
+}
+.Timeline-Content {
+	position: relative;
+	margin-left: 0;
+	padding: 1.6em;
+	width: 80%;
+	border-radius: 0.25em;
+	box-shadow: -1px -3px 0px white;
+  }
+.Timeline-Block {
+	position: relative;
+	margin: -1em 2.5em;
+	width: 40%;
+	height: 15%;
+}
+.Timeline-Block::after, .Timeline-Content::after {
+	content: " ";
+	display: table;
+	clear: both;
+}
+.Timeline-Block div img { 
+	display: block;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	left: 106%;
+	top: 75px;
+ }
+ .Timeline-Content h2 { font-size: 1.25rem; text-align: center; }
+ .Timeline-Content p { font-size: 1rem; }
+ .Timeline-Block:nth-child(2) {margin: 5em 27.5em;}
+ .Timeline-Block:nth-child(3) {margin: 0em 2.5em;}
+
+ .Timeline-Block:nth-child(2) .Timeline-Content::before {
+ 	border-right: 7px solid white;
+	border-left-color: transparent;
+	right: 100%;
+ }
+ .Timeline-Block:nth-child(2) .Timeline-Content span {left: -50%;}
+  .Timeline-Block:nth-child(2) div img {left: -20%;}
 
