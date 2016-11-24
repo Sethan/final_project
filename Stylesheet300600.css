@@ -69,7 +69,7 @@ nav ul li {font-size:3vw;}
 .Story table tr th img {width: 100%;}
 .Story h1 {font-size: 7vw;}
 
-.Intro::before { content:none; }
+.Timeline-Intro::before { content:none; }
 .Timeline-Content h2 {font-size: 0.88rem;}
 .Timeline-Block {width: 85%;}
 .Timeline-Content p{
