@@ -24,7 +24,6 @@ body {
 	font-weight:600;
 }
 #Forsidebilde h6{
-	font-family "Open Sans";
 	color:black;
 	font-size:1.5vw;
 	opacity:0.75;
@@ -130,7 +129,7 @@ a:hover, a:active {color:#224466; font-weight: 500;}
   40%, 60% {bottom:21%;}
   50%      {bottom:21.25%;}
 }*/
-// Slider 
+/*Slider */
 .boxes {
   position: relative;
   width: 100vw;
@@ -195,7 +194,8 @@ margin-top:1%;
   cursor: pointer;
   border: 1px solid;
 }
-.rnav { display: none; } // End of Slider
+.rnav { display: none; }
+/*End of Slider*/
 article { position: absolute; 
 	width: 100%;
 	text-align: center;
