@@ -209,7 +209,7 @@ article { position: absolute;
 .Story table th img {width: 33%;}
 .second{
 	background-color: #336699;
-	padding: 5vh 0 10vh 0;
+	padding: 5vh 0 10vh 0; text-align:center; color:white; width:100%;
 }
 .second img {margin-right: 2%;}
 
