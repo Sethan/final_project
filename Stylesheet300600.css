@@ -93,7 +93,7 @@ nav ul li {font-size:3vw;}
  }
  .Timeline-Block:nth-child(2) div img {left: 40%;}
  .Timeline-Block:nth-child(2) .Timeline-Content::before {
- 	border-right: transparent;
+ 	border-right: gold;
  	right: 45%;
  }
  .Timeline-Block:nth-child(2) .Timeline-Content span {left: 75%;}
