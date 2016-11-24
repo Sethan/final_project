@@ -44,7 +44,7 @@ nav {
 nav ul li {display: inline; list-style-type: none; padding-right: 5%; font-size: 1.7vw;}
 #info {
 	position: absolute;
-	top: 10%; left: 3%; font-family: Myriad Pro;
+	top: 10%; left: 3%; font-family: "Myriad Pro";
 	text-align: center; font-size: 1.7vw;
 }
 .Intro,#Specs {
