@@ -1,6 +1,7 @@
 .Intro *, .solution * {
 	font-size: 4vw;
 }
+nav { height:6%;}
 #Specs * {font-size: 5vw; }
 #Specs table tr td img {width:9vw; height:10vw; margin-bottom:0vh; }
 #Specs table {padding-left:0; width:87%;}
