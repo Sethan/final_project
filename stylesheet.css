@@ -240,7 +240,7 @@ textarea {  resize: none; height:15vh; } button {left:30%; position:absolute;}
 }
 /* Timeline */
 .Timeline-Intro {
-	background-color: #336693; color: white;
+	background-color: #336693; color: white; height: 50%;
 }
 .Timeline-Intro::before {
 	content: " ";
