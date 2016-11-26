@@ -50,9 +50,10 @@ section{ height:90vw;}
 	height: 45vh;
 }
 .prolabel { bottom:18%;}
-.slides,.pic {
+.pic {
 	height: 100%;
 }
+.slides {height:45vh; padding-left:5%;}
 footer {height: 28%;}
 footer img{ width:22%}
 .StudentSlider figure img {width: 84%; border-radius: 50px;
