@@ -198,7 +198,7 @@ article { position: absolute;
 .Story {
 	background-color: white;
 	color: #336699;
-	padding: 0 0 5vh 0;
+	padding: 0 0 5vh 0; height:100%;
 	text-align: center;
 	position:relative;
 }
