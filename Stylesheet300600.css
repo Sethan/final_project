@@ -71,8 +71,8 @@ footer img{ width:22%}
 	36%,46%,60%,70% { left: -79% }
 }
 
-.Story table tr th{font-size: x-small;}
-.Story table tr th img {width: 100%;}
+.Story table tr td{font-size: x-small;}
+.Story table tr td img {width: 100%;}
 .Story h1 {font-size: 7vw;}
 
 .Timeline-Intro::before { content:none; }
