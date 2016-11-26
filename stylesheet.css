@@ -173,7 +173,6 @@ a:hover, a:active {color:#224466; font-weight: 500;}
 .s-index {
   width: 5vw;
   height: 11vh;
-  background-color: white;
   display: inline-block;
   margin-right: 6px;
   cursor: pointer;
