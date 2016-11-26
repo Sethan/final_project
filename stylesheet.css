@@ -159,9 +159,9 @@ a:hover, a:active {color:#224466; font-weight: 500;}
 .yellow:checked ~ .labels > .y-label { background-image: url(img/demo_3_Onbtn.png);}
 .green:checked ~ .labels > .g-label { background-image: url(img/demo_4_Onbtn.png); }
 
-.black ~ .labels > .wendy { background-image: url(img/Wendy.png);}
-.red ~ .labels > .keith{ background-image: url(img/Keith.png); }
-.yellow ~ .labels > .chris { background-image: url(img/Chris.png);}
+.black ~ .labels > .wendy { background-image: url(img/wendy.PNG);}
+.red ~ .labels > .keith{ background-image: url(img/keith.PNG); }
+.yellow ~ .labels > .chris { background-image: url(img/Chris.PNG);}
 
 .black:checked ~ .labels > .wendy { background-image: url(img/Wendy_Onbtn.png);}
 .red:checked ~ .labels > .keith{ background-image: url(img/Keith_Onbtn.png); }
