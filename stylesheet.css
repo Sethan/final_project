@@ -153,13 +153,10 @@ margin-top:1%;
 .green:checked ~ .boxes > .slides { transform: translateX(-300vw); }
 
 
-.black:checked ~ .labels > .b-label,
-.red:checked ~ .labels > .r-label,
-.yellow:checked ~ .labels > .y-label,
-.green:checked ~ .labels > .g-label
- {
-  background-color: grey;
-}
+.black:checked ~ .labels > .b-label { background-image: url(img/demo_1_btn.png); background-size: 100% 100%; background-repeat: no-repeat; }
+.red:checked ~ .labels > .r-label{ background-image: url(img/demo_2_btn.png); background-size: 100% 100%; background-repeat: no-repeat;  }
+.yellow:checked ~ .labels > .y-label { background-image: url(img/demo_3_btn.png); background-size: 100% 100%; background-repeat: no-repeat; }
+.green:checked ~ .labels > .g-label { background-image: url(img/demo_4_btn.png); background-size: 100% 100%; background-repeat: no-repeat; }
 
 .labels {
   position: absolute;
@@ -168,11 +165,10 @@ margin-top:1%;
   transform: translateX(-50%);
 }
 .labels img {position:absolute; width:31%;}
-.prolabel img {width:24%; height:190%;}
 .prolabel {left: 48%;display:inline-flex;bottom:6%}
 .s-index {
-  width: 7vw;
-  height: 5vh;
+  width: 5vw;
+  height: 11vh;
   background-color: white;
   display: inline-block;
   margin-right: 6px;
