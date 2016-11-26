@@ -153,19 +153,25 @@ margin-top:1%;
 .green:checked ~ .boxes > .slides { transform: translateX(-300vw); }
 
 
-.black:checked ~ .labels > .b-label { background-image: url(img/demo_1_btn.png); background-size: 100% 100%; background-repeat: no-repeat; }
-.red:checked ~ .labels > .r-label{ background-image: url(img/demo_2_btn.png); background-size: 100% 100%; background-repeat: no-repeat;  }
-.yellow:checked ~ .labels > .y-label { background-image: url(img/demo_3_btn.png); background-size: 100% 100%; background-repeat: no-repeat; }
-.green:checked ~ .labels > .g-label { background-image: url(img/demo_4_btn.png); background-size: 100% 100%; background-repeat: no-repeat; }
+.black:checked ~ .labels > .b-label { background-image: url(img/demo_1_Onbtn.png);}
+.red:checked ~ .labels > .r-label{ background-image: url(img/demo_2_Onbtn.png); }
+.yellow:checked ~ .labels > .y-label { background-image: url(img/demo_3_Onbtn.png);}
+.green:checked ~ .labels > .g-label { background-image: url(img/demo_4_Onbtn.png); }
+
+.b-label { background-image: url(img/demo_1_btn.png); }
+.r-label {background-image: url(img/demo_1_btn.png); }
+.y-label {background-image: url(img/demo_1_btn.png); }
+.g-label {background-image: url(img/demo_1_btn.png); }
 
 .labels {
   position: absolute;
   bottom: 5%;
   left: 52.5%;
   transform: translateX(-50%);
+  background-size: 100% 100%; background-repeat: no-repeat;
 }
 .labels img {position:absolute; width:31%;}
-.prolabel {left: 48%;display:inline-flex;bottom:6%}
+.prolabel {left: 48%;display:inline-flex;bottom:6%; }
 .s-index {
   width: 5vw;
   height: 11vh;
