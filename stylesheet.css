@@ -51,6 +51,10 @@ nav ul li {display: inline; list-style-type: none; padding-right: 5%; font-size:
 	font-weight: 200;
 	font-size: 2vw;
 	line-height: 2;
+	position: relative;
+        width: 100%;
+        display: inline-block;
+        padding: 0vw 0vh 2vw 0vw;
 }
 .Intro p, .solution p
 {
