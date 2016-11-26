@@ -22,7 +22,7 @@ nav {
  .labels { left:85%; }
  .prolabel {left:48%; display:inline-flex; margin-bottom:4%;}
  .prolabel img {width:24%; height:100%;}
-.s-index {width:14vw; height:6.5vh; } .home-index { border-radius:8px; width:24vw; height:21vh; }
+.s-index {width:14vw; height:6.5vh; } .home-index { border-radius:8px; width:24vw; height:13vh; }
  #SlideshowApp {
  	height:40vh;
  }
