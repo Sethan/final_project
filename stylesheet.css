@@ -151,10 +151,10 @@ a:hover, a:active {color:#224466; font-weight: 500;}
 .yellow:checked ~ .boxes > .slides { transform: translateX(-200vw); }
 .green:checked ~ .boxes > .slides { transform: translateX(-300vw); }
 
-#slide_1 ~ .boxes > .b-label { background-image: url(img/demo_1_btn.png); }
-.red:default ~ .boxes > .r-label {background-image: url(img/demo_1_btn.png); }
-#slide_3:not(:checked) ~ .boxes > .y-label {background-image: url(img/demo_1_btn.png); }
-.green:checked:false ~ .boxes > .g-label {background-image: url(img/demo_1_btn.png); }
+.black ~ .labels > .b-label { background-image: url(img/demo_1_btn.png);}
+.red ~ .labels > .r-label{ background-image: url(img/demo_2_btn.png); }
+.yellow ~ .labels > .y-label { background-image: url(img/demo_3_btn.png);}
+.green ~ .labels > .g-label { background-image: url(img/demo_4_btn.png); }
 
 .black:checked ~ .labels > .b-label { background-image: url(img/demo_1_Onbtn.png);}
 .red:checked ~ .labels > .r-label{ background-image: url(img/demo_2_Onbtn.png); }
