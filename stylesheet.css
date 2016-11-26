@@ -58,7 +58,7 @@ nav ul li {display: inline; list-style-type: none; padding-right: 5%; font-size:
 	padding-right:20px;
 	padding-right: 60px;
     	padding-left: 60px;
-    	text-align: justify;
+    	text-align: left;
 }
 .Intro h1,#Italic,#Specs h1{text-align: center;}
 h1 {font-family: Verdana; font-weight: 100;}
