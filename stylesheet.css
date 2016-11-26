@@ -157,10 +157,10 @@ a:hover, a:active {color:#224466; font-weight: 500;}
 .yellow:checked ~ .labels > .y-label { background-image: url(img/demo_3_Onbtn.png);}
 .green:checked ~ .labels > .g-label { background-image: url(img/demo_4_Onbtn.png); }
 
-.black:!checked ~ .boxes > .b-label { background-image: url(img/demo_1_btn.png); }
-.red:!checked ~ .boxes > .r-label {background-image: url(img/demo_1_btn.png); }
-.yellow:!checked ~ .boxes > .y-label {background-image: url(img/demo_1_btn.png); }
-.green:!checked ~ .boxes > .g-label {background-image: url(img/demo_1_btn.png); }
+.black:not(:checked) ~ .boxes > .b-label { background-image: url(img/demo_1_btn.png); }
+.red:not(:checked) ~ .boxes > .r-label {background-image: url(img/demo_1_btn.png); }
+.yellow:not(:checked) ~ .boxes > .y-label {background-image: url(img/demo_1_btn.png); }
+.green:not(:checked) ~ .boxes > .g-label {background-image: url(img/demo_1_btn.png); }
 
 .labels {
   position: absolute;
