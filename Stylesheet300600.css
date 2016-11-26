@@ -1,6 +1,7 @@
 .Intro *, .solution * {
 	font-size: 4vw;
 }
+.solution p {padding-left:21px;}
 #Forsidebilde {
 	margin:4% 0 0 0;
 }
@@ -19,7 +20,7 @@ nav {
  	height:30%;
  	width:90%; }
  .labels { left:85%; }
- .prolabel {left:48%; display:inline-flex; margin-bottom:4%;}
+ .prolabel {left:75%; display:inline-flex; margin-bottom:4%; width:35%;}
  .prolabel img {width:24%; height:100%;}
 .s-index {width:14vw; height:6.5vh; } .home-index { border-radius:8px; width:24vw; height:13vh; }
  #SlideshowApp {
@@ -47,7 +48,6 @@ nav {
 .boxes {
 	height: 45vh;
 }
-.prolabel { bottom:18%;}
 .pic {
 	height: 100%;
 }
