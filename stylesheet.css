@@ -314,3 +314,11 @@ textarea {  resize: none; height:15vh; } button {left:30%; position:absolute;}
 	.Timeline-block div img {margin-left:1.5%;} .Timeline-Block:nth-child(2) div img {left:18.5%;}
 	#bounce {bottom:30%;}
 }
+
+@media screen and (max-width:1440px)
+{
+	#bounce{bottom:0;}
+	.Timeline-Intro {height:172vh;}
+	.Timeline-Content span {left:130%; top:63px;}
+	footer table img {width:50%;}
+}
