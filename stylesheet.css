@@ -311,7 +311,7 @@ textarea {  resize: none; height:15vh; } button {left:30%; position:absolute;}
 	.Main {padding-bottom:60vh;} .StudentSlider figure {margin-top:2%;}
 	.Story {padding-bottom:30vh;}
 	footer {height:40%;}
-	.Timeline-block div img {margin-left:1.5%;} .Timeline-Block:nth-child(2) div img {left:18.5%;}
+	.Timeline-block div img {margin-left:1.5%;} .Timeline-Block:nth-child(2) div img {left:-18.5%;}
 	#bounce {bottom:30%;}
 }
 
