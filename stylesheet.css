@@ -67,7 +67,7 @@ h1 {font-family: Verdana; font-weight: 100;}
 {
 	margin:0 auto;
 	padding-left:12vw;
-	width: 60%; 
+	width: 80%; 
 	font-style: italic; 
 	font-size: 2vw;
 	font-weight:100; 
@@ -78,7 +78,7 @@ h1 {font-family: Verdana; font-weight: 100;}
 	padding-bottom:0.5vw;
 	padding-top:0.5vw;
 }
-#Specs table tr td img {width: 2vw; height: 2vw; margin-bottom:-0.45vh; margin-right:1vw;}
+#Specs table tr td img {width: 5vw; height: 5vw; margin-bottom:-0.45vh; margin-right:5vw;}
 .solution { margin: 6% 0 2% 0; }
 section {
 	position: relative;
