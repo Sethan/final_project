@@ -323,7 +323,7 @@ textarea {  resize: none; height:15vh; } button {left:30%; position:absolute;}
 	footer table img {width:50%;}
 }
 
-@media screen and (max-width:1030px) {
+@media screen and (max-width:1280px) {
 	.Timeline-Intro {height:235vh}
 	.Timeline-Intro:nth-child(2) .Timeline-Content {margin-left:7%;} .Timeline-Block:nth-child(2) .Timeline-Content span {left:-60%;}
 	footer * {font-size:2vw;} .Story table th img {width:45%;}
