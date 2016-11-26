@@ -159,13 +159,13 @@ a:hover, a:active {color:#224466; font-weight: 500;}
 .yellow:checked ~ .labels > .y-label { background-image: url(img/demo_3_Onbtn.png);}
 .green:checked ~ .labels > .g-label { background-image: url(img/demo_4_Onbtn.png); }
 
-.wendy ~ .labels > .b-label { background-image: url(img/Wendy.png);}
-.keith ~ .labels > .r-label{ background-image: url(img/Keith.png); }
-.chris ~ .labels > .y-label { background-image: url(img/Chris.png);}
+.black ~ .labels > .wendy { background-image: url(img/Wendy.png);}
+.red ~ .labels > .keith{ background-image: url(img/Keith.png); }
+.yellow ~ .labels > .chris { background-image: url(img/Chris.png);}
 
-.wendy:checked ~ .labels > .b-label { background-image: url(img/Wendy_Onbtn.png);}
-.keith:checked ~ .labels > .r-label{ background-image: url(img/Keith_Onbtn.png); }
-.chris:checked ~ .labels > .y-label { background-image: url(img/Chris_Onbtn.png);}
+.black:checked ~ .labels > .wendy { background-image: url(img/Wendy_Onbtn.png);}
+.red:checked ~ .labels > .keith{ background-image: url(img/Keith_Onbtn.png); }
+.yellow:checked ~ .labels > .chris { background-image: url(img/Chris_Onbtn.png);}
 
 .labels {
   position: absolute;
