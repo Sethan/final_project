@@ -195,6 +195,7 @@ article { position: absolute;
 .Main { background-color:#336688;
 	text-align: center; color: white;
 	padding: 5vh 0 48vh 0; position:relative;
+	width: 100%;
  }
 .Main h1, .Story h1 { font-size: 3vw;} .Main p {font-size: 1.5vw; margin-right: 3%;
 	line-height: 0;
@@ -246,7 +247,13 @@ textarea {  resize: none; height:15vh; } button {left:30%; position:absolute;}
 }
 /* Timeline */
 .Timeline-Intro {
-	background-color: #336693; color: white;  height: 115vh;;
+	background-color: #336693; 
+	color: white;  
+	height: 115vh;
+	position:relative;
+	width:100%;
+	display:inline-block;
+	padding-bottom:2vw;
 }
 .Timeline-Intro::before {
 	content: " ";
