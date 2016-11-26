@@ -4,9 +4,9 @@
 #Forsidebilde {
 	margin:4% 0 0 0;
 }
-footer {height: 25%;}
 footer * {font-size: 2vw;}
-
+footer {height: 28%; position:relative;}
+footer img{ width:22%}
 footer div {width: 30%;} footer div ul li:first-child img {width:50%;}
 
 nav {
@@ -52,8 +52,7 @@ nav {
 	height: 100%;
 }
 .slides {height:45vh; padding-left:5%;}
-footer {height: 28%;}
-footer img{ width:22%}
+
 .StudentSlider figure img {width: 84%; border-radius: 50px;
  display: inline-block;}
 .StudentSlider h1{ font-size:1.4vh;}
