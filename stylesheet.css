@@ -168,7 +168,7 @@ margin-top:1%;
   bottom: 5%;
   left: 52.5%;
   transform: translateX(-50%);
-  background-size: 100% 100%; background-repeat: no-repeat;
+
 }
 .labels img {position:absolute; width:31%;}
 .prolabel {left: 48%;display:inline-flex;bottom:6%; }
@@ -179,7 +179,7 @@ margin-top:1%;
   display: inline-block;
   margin-right: 6px;
   cursor: pointer;
-  border: 1px solid;
+  border: 1px solid; background-size: 100% 100%; background-repeat: no-repeat;
 }
 .rnav { display: none; } 
 .box iframe {width:60%; border:0; }
