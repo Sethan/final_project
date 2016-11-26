@@ -158,10 +158,10 @@ margin-top:1%;
 .yellow:checked ~ .labels > .y-label { background-image: url(img/demo_3_Onbtn.png);}
 .green:checked ~ .labels > .g-label { background-image: url(img/demo_4_Onbtn.png); }
 
-.black ~ .boxes > .b-label { background-image: url(img/demo_1_btn.png); }
-.black ~ .boxes > .r-label {background-image: url(img/demo_1_btn.png); }
-.black ~ .boxes > .y-label {background-image: url(img/demo_1_btn.png); }
-.black ~ .boxes > .g-label {background-image: url(img/demo_1_btn.png); }
+.black:default ~ .boxes > .b-label { background-image: url(img/demo_1_btn.png); }
+.red:default ~ .boxes > .r-label {background-image: url(img/demo_1_btn.png); }
+.yellow:default ~ .boxes > .y-label {background-image: url(img/demo_1_btn.png); }
+.green:default ~ .boxes > .g-label {background-image: url(img/demo_1_btn.png); }
 
 .labels {
   position: absolute;
