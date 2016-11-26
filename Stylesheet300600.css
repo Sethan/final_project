@@ -8,7 +8,7 @@ footer {height: 25%;}
 footer * {font-size: 2vw;}
 input[type=text], textarea {height: 1vh;}
 textarea {height: 5vh;}
-footer div {width: 30%;}
+footer div {width: 30%;} footer div ul li:first-child img {width:50%;}
 
 nav {
 	height: 4%;
