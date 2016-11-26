@@ -204,8 +204,8 @@ article { position: absolute;
 .Main table {width: 100%; display: inline-block;}
 
 .Story {
-	background-color: white;
-	color: #336699;
+	background-color: #ffffff;
+	color: #224466;
 	padding: 0 0 5vh 0; height:100%;
 	text-align: center;
 	position:relative;
