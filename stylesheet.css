@@ -98,7 +98,7 @@ footer ul li {
 	width: 100%;
 	text-align: center;
 }
-footer img {width: 10%;} footer a {width: 10%;}
+footer img {width: 10%;} footer a {width: 10%;} footer ul:first-child img {width:15%;}
 footer table img {width: 65%;} 
 
 a:link, a:visited {color:#336699; text-decoration:none; font-weight: 300;}
@@ -321,4 +321,10 @@ textarea {  resize: none; height:15vh; } button {left:30%; position:absolute;}
 	.Timeline-Intro {height:172vh;}
 	.Timeline-Content span {left:130%; top:63px;}
 	footer table img {width:50%;}
+}
+
+@media screen and (max-width:1030px) {
+	.Timeline-Intro {height:235vh}
+	.Timeline-Intro:nth-child(2) .Timeline-Content {margin-left:7%;} .Timeline-Block:nth-child(2) .Timeline-Content span {left:-60%;}
+	footer * {font-size:2vw;} .Story table th img {width:45%;}
 }
