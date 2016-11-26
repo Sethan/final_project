@@ -33,7 +33,7 @@ nav {
  .Main{height:25vh; padding-bottom:5vh;}
  .StudentSlider {position:absolute;overflow: hidden;}
 #Specs {height:90vh;}
-#Specs * {font-size: 5vw; }
+#Specs * {font-size: 4vw; }
 #Specs table tr td img {width:9vw; height:10vw; margin-bottom:0vh; }
 #Specs table {padding-left:0; width:87%;}
 #arrowStop{
