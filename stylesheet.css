@@ -183,7 +183,8 @@ a:hover, a:active {color:#224466; font-weight: 500;}
   margin-right: 6px;
   cursor: pointer;
   border: 1px solid; background-size: 100% 100%; background-repeat: no-repeat; border-radius:30%;
-} .home-index {width:15vw; height:15vw;}
+} 
+.home-index {width:10vw; height:6vw;}
 .rnav { display: none; } 
 .box iframe {width:60%; border:0; }
 /* End of Slider */
