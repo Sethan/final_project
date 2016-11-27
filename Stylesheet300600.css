@@ -75,6 +75,7 @@ nav {
 .Story table tr td{font-size: x-small;}
 .Story table tr td img {width: 100%;}
 .Story h1 {font-size: 7vw;}
+.Story table {width:100%;}
 
 .Timeline-Intro {height:150vh;}
 .Timeline-Intro::before { content:none; }
