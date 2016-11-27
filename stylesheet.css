@@ -338,5 +338,5 @@ article { position: absolute;
 }
 @media screen and (max-width:800px) and (min-width:600px) { .Timeline-Block:nth-child(2) {margin: 10em 2.5em;} .second {height:65vh;}
 	.Main {padding-bottom:20vh;} .Timeline-Content p {font-size:4vw;} .Timeline-Content h2 {font-size:5vw;}
-	.Timeline-Content span {top:-90px;} .Timeline-Intro {height:159vh:}
+	.Timeline-Content span {top:-90px;} .Timeline-Intro {height:159vh:} .Timeline-Block div img {left:47%;}
 	}
