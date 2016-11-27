@@ -318,10 +318,9 @@ article { position: absolute;
   .Timeline-Block:nth-child(2) div img {left: -20%;}
 
 @media screen and (min-width:2000px) {
-	.Main {padding-bottom:60vh;} .StudentSlider figure {margin-top:2%;}
-	.Story {padding-bottom:30vh;}
+	 .StudentSlider figure {margin-top:2%;}
 	.Timeline-block div img {margin-left:1.5%;} .Timeline-Block:nth-child(2) div img {left:-18.5%;}
-	#bounce {bottom:30%;}
+	#bounce {bottom:30%;} .infop{width:30%; right:19%;} .infoh1{left:9%;}
 }
 
 @media screen and (max-width:1440px)
@@ -337,3 +336,7 @@ article { position: absolute;
 	.Timeline-Intro:nth-child(2) .Timeline-Content {margin-left:7%;} .Timeline-Block:nth-child(2) .Timeline-Content span {left:-60%;}
 	footer * {font-size:2vw;} .Story table th img {width:45%;}
 }
+@media screen and (max-width:800px) and (min-width:600px) { .Timeline-Block:nth-child(2) {margin: 10em 2.5em;} .second {height:65vh;}
+	.Main {padding-bottom:20vh;} .Timeline-Content p {font-size:4vw;} .Timeline-Content h2 {font-size:5vw;}
+	.Timeline-Content span {top:-90px;} .Timeline-Intro {height:159vh:}
+	}
