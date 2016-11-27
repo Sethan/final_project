@@ -26,8 +26,8 @@ nav {
  #SlideshowApp {
  	height:40vh;
  }
- .infoh1 {left:6%; font-size:4vw;color:gold; font-weight:bolder;}
- .infop{top:15%; right:23%; font-size:3.8vw;}
+ .infoh1 {left:14%; font-size:4vw;color:gold; font-weight:bolder;}
+ .infop{top:15%; right:15%; font-size:3.7vw; text-align:left;}
  
  .second h1{font-size:6vw;} .second img {width:31%;} .Main h1 {font-size:5vw;} .Main p{font-size:3.5vw;}
  .second {height:39vh;}
