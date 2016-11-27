@@ -198,7 +198,7 @@ article { position: absolute;
 }
 .Main { background-color:#336688;
 	text-align: center; color: white;
-	padding: 5vh 0 48vh 0; position:relative;
+	padding: 5vh 0 4vh 0; position:relative;
 	width: 100%;
 	text-align:center;
  }
