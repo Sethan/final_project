@@ -217,7 +217,7 @@ article { position: absolute;
 	width:100%;
 	
 }
-.Story table{ width: 100%;}
+.Story table{ position:relative; display:inline-block;}
 .Story table td img {width: 33%;}
 .second{
 	background-color: #336699;
