@@ -2,6 +2,7 @@
 	font-size: 4vw;
 }
 .solution p {padding-left:21px;}
+.Intro p {padding-left:14px;}
 #Forsidebilde {
 	margin:4% 0 0 0;
 }
@@ -19,7 +20,7 @@ nav {
  .labels img {
  	height:30%;
  	width:90%; }
- .labels { left:85%; }
+ .labels { left:85%; bottom:7%;}
  .prolabel {left:75%; display:inline-flex; margin-bottom:4%; width:35%;}
  .prolabel img {width:24%; height:100%;}
 .s-index {width:14vw; height:6.5vh; } .home-index { border-radius:8px; width:24vw; height:13vh; }
@@ -34,7 +35,7 @@ nav {
  .Main{height:25vh; padding-bottom:5vh;}
  .StudentSlider {position:absolute;overflow: hidden;}
 #Specs {height:65vh;}
-#Specs * {font-size: 4vw; }
+#Specs * {font-size: 4vw; } #Specs h1 {font-size:large;}
 #Specs table tr td img {width:9vw; height:10vw; margin-bottom:0vh; }
 #Specs table {padding-left:0; width:95%;}
 #arrowStop{
@@ -52,6 +53,7 @@ nav {
 	height: 100%;
 }
 .slides {height:45vh; padding-left:5%;}
+.box {margin-top:2%;}
 
 .StudentSlider figure img {width: 84%; border-radius: 50px;
  display: inline-block;}
