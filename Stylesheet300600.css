@@ -28,6 +28,8 @@ nav {
  .prolabel {left:75%; display:inline-flex; margin-bottom:2%; width:45%;}
  .prolabel img {width:24%; height:100%;}
 .s-index {width:14vw; height:7vh; } .home-index { border-radius:8px; width:24vw; height:13vh; }
+.mobile_img {display:inline;}
+.desktop_img {display:none;}
  #SlideshowApp {
  	height:40vh;
  }
