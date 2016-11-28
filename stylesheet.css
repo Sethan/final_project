@@ -112,7 +112,7 @@ a:hover, a:active {color:#000000; font-weight: 500;}
   /*-webkit-animation:bounce 3s infinite;*/
   z-index:9; 
   transform: translateX(-50%);
-  bottom: 20%;
+  bottom: 25%;
 }
 
 /* Slider Content */
