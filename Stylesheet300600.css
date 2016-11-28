@@ -2,7 +2,7 @@
 	font-size: 4vw;
 }
 #Forsidebilde h6 {width:100%; font-size:4.2vw; opacity:1; margin-top:54%; margin-left:13%;}
-#Forsidebilde header {opacity:1; width:60%; font-size:4.5vw;}
+#Forsidebilde header {opacity:1; width:43%; font-size:4.5vw;}
 #Italic {padding:0; width:100%;}
 .Intro h1, #Specs h1 {font-size:6vw; font-weight:500;}
 .solution p {padding-left:21px;}
@@ -78,7 +78,7 @@ nav {
 
 .Timeline-Intro {height:150vh;}
 .Timeline-Intro::before { content:none; }
-.Timeline-Content h2 {font-size: 0.88rem;}
+.Timeline-Content h2 {font-size: 0.88rem; margin-top:-5%;}
 .Timeline-Block {width: 85%;}
 .Timeline-Content p{
 	font-size: 0.76rem;
