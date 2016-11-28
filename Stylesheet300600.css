@@ -36,8 +36,8 @@ nav {
  
  .second h1{font-size:6vw;} .second img {width:31%;} .Main h1 {font-size:5vw;} .Main p{font-size:3.5vw;}
  .second {height:41vh;}
- .Main{height:25vh; padding-bottom:5vh;}
- .StudentSlider {position:absolute;overflow: hidden;}
+ .Main{height:25vh; padding-bottom:5vh; padding-top:4vh; }
+ .StudentSlider {position:absolute; margin-top:1.5vh;}
 #Specs {height:65vh;}
 #Specs * {font-size: 4vw; } #Specs h1 {font-size:large;}
 #Specs table tr td img {width:9vw; height:10vw; margin-bottom:0vh; }
