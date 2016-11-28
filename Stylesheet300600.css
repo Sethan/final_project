@@ -71,7 +71,7 @@ nav {
 	36%,46%,60%,70% { left: -79% }
 }
 
-.Story table tr td{font-size: 5vw;}
+.Story p{font-size: 5vw;}
 .Story table td img {width:50%;}
 .Story table tr td h1 {font-size:5vw; font-weight:bold;}
 .Story h1 {font-size: 7vw;}
