@@ -106,13 +106,13 @@ a:link, a:visited {color:#24476c; text-decoration:none; font-weight: 300;}
 a:hover, a:active {color:#000000; font-weight: 500;}
 #bounce {
   position:absolute;
-  left:50%;
+  left:20%;
   height:25vh;
-  width:6vw;
+  width:8vw;
   /*-webkit-animation:bounce 3s infinite;*/
   z-index:9; 
   transform: translateX(-50%);
-  bottom: 13%;
+  bottom: 20%;
 }
 
 /* Slider Content */
