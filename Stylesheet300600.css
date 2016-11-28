@@ -3,6 +3,7 @@
 }
 #Forsidebilde h6 {width:100%; font-size:4.2vw; opacity:1; margin-top:54%; margin-left:13%;}
 #Forsidebilde header {opacity:1; width:60%; font-size:4.5vw;}
+#Italic {padding:0; width:100%;}
 .Intro h1, #Specs h1 {font-size:6vw; font-weight:500;}
 .solution p {padding-left:21px;}
 .Intro p {padding-left:14px;}
@@ -26,7 +27,7 @@ nav {
  .labels { left:85%; bottom:7%;}
  .prolabel {left:75%; display:inline-flex; margin-bottom:2%; width:45%;}
  .prolabel img {width:24%; height:100%;}
-.s-index {width:14vw; height:6.5vh; } .home-index { border-radius:8px; width:24vw; height:13vh; }
+.s-index {width:14vw; height:7vh; } .home-index { border-radius:8px; width:24vw; height:13vh; }
  #SlideshowApp {
  	height:40vh;
  }
@@ -56,7 +57,7 @@ nav {
 	height: 100%;
 }
 .slides {height:45vh; padding-left:5%;}
-.box {margin-top:2%;}
+.box {margin-top:1%;}
 
 .StudentSlider h1{ font-size:2.8vw;}
 .StudentSlider figure div {width: 13%;}
