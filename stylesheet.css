@@ -204,7 +204,7 @@ article { position: absolute;
 	width: 100%;
 	text-align:center;
  }
-.Main h1, .Story h1 { font-size: 3vw;} .Main p {font-size: 1.5vw; margin-right: 3%;
+.Main h1, .Story h1 { font-size: 3vw; font-weight:500;} .Main p {font-size: 1.5vw; margin-right: 3%;
 	line-height: 0;
 } 
 .Main table tr th img {border-radius: 50%; height: 29%; width: 90%;}
