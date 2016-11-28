@@ -68,7 +68,7 @@ nav {
 .Story table tr td{font-size: x-small;}
 .Story table tr td h1 {font-size:3vw;}
 .Story h1 {font-size: 7vw;}
-.Story table {width:100%; padding-left:10%;}
+.Story table {width:100%; padding-left:0%;}
 
 .Timeline-Intro {height:150vh;}
 .Timeline-Intro::before { content:none; }
