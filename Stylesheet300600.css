@@ -3,7 +3,7 @@
 }
 #Forsidebilde h6 {width:100%; font-size:4.2vw; opacity:1; margin-top:54%; margin-left:13%;}
 #Forsidebilde header {opacity:1; width:60%; font-size:4.5vw;}
-.Intro h1 {font-size:6vw;}
+.Intro h1, #Specs h1 {font-size:6vw; font-weight:500;}
 .solution p {padding-left:21px;}
 .Intro p {padding-left:14px;}
 #Forsidebilde {
