@@ -1,6 +1,8 @@
 .Intro *, .solution * {
 	font-size: 4vw;
 }
+#Forsidebilde h6 {width:51%; font-size:3.5vw; opacity:1; }
+#Forsidebilde header {opacity:1; width:60%; font-size:4.5vw;}
 .Intro h1 {font-size:6vw;}
 .solution p {padding-left:21px;}
 .Intro p {padding-left:14px;}
