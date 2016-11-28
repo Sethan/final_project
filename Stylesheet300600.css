@@ -57,6 +57,7 @@ nav {
 
 .StudentSlider h1{ font-size:1.4vh;}
 .StudentSlider figure div {width: 13%;}
+.StudentSlider figure img {border-radius:50%;}
 
 @keyframes SlideAnimation {
 	0%, 10%,96% { left: 0% }
@@ -66,7 +67,8 @@ nav {
 }
 
 .Story table tr td{font-size: x-small;}
-.Story table tr td h1 {font-size:3vw;}
+.Story table td img {width:50%;}
+.Story table tr td h1 {font-size:5vw; font-weight:bold;}
 .Story h1 {font-size: 7vw;}
 .Story table {width:100%; padding-left:0%;}
 
