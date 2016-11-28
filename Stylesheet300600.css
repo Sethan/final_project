@@ -38,6 +38,7 @@ nav {
  .second {height:41vh;}
  .Main{height:25vh; padding-bottom:7.5vh; padding-top:4vh; }
  .StudentSlider {position:absolute; margin-top:1.5vh;}
+.StudentSlider figure img:hover {transform: scale(2,2);}
 #Specs {height:65vh;}
 #Specs * {font-size: 4vw; } #Specs h1 {font-size:large;}
 #Specs table tr td img {width:9vw; height:10vw; margin-bottom:0vh; }
