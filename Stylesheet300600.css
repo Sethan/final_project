@@ -1,6 +1,7 @@
 .Intro *, .solution * {
 	font-size: 4vw;
 }
+.Intro h1 {font-size:6vw;}
 .solution p {padding-left:21px;}
 .Intro p {padding-left:14px;}
 #Forsidebilde {
@@ -21,7 +22,7 @@ nav {
  	height:30%;
  	width:90%; }
  .labels { left:85%; bottom:7%;}
- .prolabel {left:75%; display:inline-flex; margin-bottom:4%; width:35%;}
+ .prolabel {left:75%; display:inline-flex; margin-bottom:2%; width:45%;}
  .prolabel img {width:24%; height:100%;}
 .s-index {width:14vw; height:6.5vh; } .home-index { border-radius:8px; width:24vw; height:13vh; }
  #SlideshowApp {
