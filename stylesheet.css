@@ -139,6 +139,7 @@ a:hover, a:active {color:#000000; font-weight: 500;}
 	background-color: #336699;
 	color:white;
 }
+.mobile_img {display:none;}
 .pic{padding-left: 20%; background-color: #336699; color:white;}
 .pic div img {width: 40%;}
 
