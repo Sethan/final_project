@@ -248,7 +248,7 @@ article { position: absolute;
 .Timeline-Intro {
 	background-color: #336693; 
 	color: white;  
-	height: 115vh;
+	height: 100%;
 	position:relative;
 	width:100%;
 	display:inline-block;
