@@ -64,7 +64,6 @@ nav ul li {display: inline; list-style-type: none; padding-right: 5%; font-size:
 }
 .Intro h1,#Italic,#Specs h1{text-align: center;}
 h1 {font-family: Verdana; font-weight: 100;}
-#Specs {height: 100vh;}
 #Specs table
 {
 	margin:0 auto;
