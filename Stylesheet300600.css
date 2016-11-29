@@ -39,8 +39,6 @@ nav {
  .second h1{font-size:6vw;} .second img {width:31%;} .Main h1 {font-size:5vw;} .Main p{font-size:3.5vw;}
  .second {height:100%;}
  .Main{height:100%; padding-top:4vh; padding-bottom:38%; }
- .StudentSlider {position:absolute; margin-top:1.5vh; overflow-y:visible;}
-.StudentSlider figure img:hover {transform: scale(2,2);}
 #Specs {height:100%;}
 #Specs * {font-size: 4vw; }
 #Specs table tr td img {width:9vw; height:10vw; margin-bottom:0vh; }
@@ -65,6 +63,8 @@ nav {
 .StudentSlider h1{ font-size:2.8vw;}
 .StudentSlider figure div {width: 13%;}
 .StudentSlider figure img {border-radius:50%;}
+ .StudentSlider {margin-top:1.5vh; overflow-y:visible;}
+.StudentSlider figure img:hover {transform: scale(2,2);}
 
 @keyframes SlideAnimation {
 	0%, 10%,96% { left: 0% }
