@@ -41,7 +41,7 @@ nav {
  .Main{height:100%; padding-bottom:7.5vh; padding-top:4vh; }
  .StudentSlider {position:absolute; margin-top:1.5vh; overflow-y:visible;}
 .StudentSlider figure img:hover {transform: scale(2,2);}
-#Specs {height:65vh;}
+#Specs {height:100%;}
 #Specs * {font-size: 4vw; } #Specs h1 {font-size:large;}
 #Specs table tr td img {width:9vw; height:10vw; margin-bottom:0vh; }
 #Specs table {padding-left:0; width:95%;}
