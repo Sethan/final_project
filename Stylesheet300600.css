@@ -100,7 +100,7 @@ nav {
  }
  .Timeline-Content span {top: -50px; font-size: 1rem; left: 75%; width: 30%;}
  .Timeline-Block:nth-child(2) {
- 	margin: 14em 2.5em;
+ 	margin: 0 2.5em;
  }
  .Timeline-Block:nth-child(2) div img {left: 40%;}
  .Timeline-Block:nth-child(2) .Timeline-Content::before {
