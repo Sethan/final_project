@@ -38,7 +38,7 @@ nav {
  
  .second h1{font-size:6vw;} .second img {width:31%;} .Main h1 {font-size:5vw;} .Main p{font-size:3.5vw;}
  .second {height:100%;}
- .Main{height:100%; padding-bottom:7.5vh; padding-top:4vh; }
+ .Main{height:100%; padding-top:4vh; }
  .StudentSlider {position:absolute; margin-top:1.5vh; overflow-y:visible;}
 .StudentSlider figure img:hover {transform: scale(2,2);}
 #Specs {height:100%;}
