@@ -335,7 +335,7 @@ article { position: absolute;
 	.Timeline-Intro:nth-child(2) .Timeline-Content {margin-left:7%;} .Timeline-Block:nth-child(2) .Timeline-Content span {left:-60%;}
 	footer * {font-size:2vw;} .Story table th img {width:45%;}
 }
-@media screen and (max-width:800px) and (min-width:600px) { .Timeline-Block:nth-child(2) {margin: 10em 2.5em;} .second {height:65vh;}
+@media screen and (max-width:800px) and (min-width:600px)
 	.Main {padding-bottom:38%;} .Timeline-Content p {font-size:4vw;} .Timeline-Content h2 {font-size:5vw;}
 	.Timeline-Content span {top:-90px;} .Timeline-Block div img {left:47%;}
 	}
